@@ -4,6 +4,6 @@
 
 <p>
     <a href="https://www.hackerrank.com/Vrushali__D">
-    <img src="https://commons.wikimedia.org/wiki/File:HackerRank_Icon-1000px.png">
+    <img height = 100 src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
 </p>
 
