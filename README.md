@@ -14,7 +14,7 @@
 
 |Sr No|Challenges|Language|Solution|
 |:-----:|------|:---------:|:-----:|
-|1|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|MySQL||
+|1|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|MySQL|[Revising-the-Select-Query-I](Basic%20Select%Queries/Revising-the-Select-Query-I.sql)|
 |2|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|MySQL||
 |3|[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)|MySQL||
 |4|[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)|MySQL||
