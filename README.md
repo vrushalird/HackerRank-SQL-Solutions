@@ -33,6 +33,6 @@
 |17|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)|MySQL|[Weather-Observation-Station-12.sql](Basic%20Select%20Queries/Weather-Observation-Station-12.sql)|
 |18|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|MySQL|[Higher-Than-75-Marks.sql](Basic%20Select%20Queries/Higher-Than-75-Marks.sql)|
 |19|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)|MySQL|[Employee-Names.sql](Basic%20Select%20Queries/Employee-Names.sql)|
-|20|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|MySQL|[Employee-Salries.sql](Basic%20Select%20Queries/Employee-Salries.sql)|
+|20|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|MySQL|[Employee-Salaries.sql](Basic%20Select%20Queries/Employee-Salaries.sql)|
 
     
