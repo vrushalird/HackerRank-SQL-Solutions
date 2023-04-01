@@ -1,4 +1,4 @@
-# My HackerRank SQL Solutions
+# HackerRank SQL Solutions
 
 <img align="right" height="20" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird">
 
