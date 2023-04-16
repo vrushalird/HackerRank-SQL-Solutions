@@ -69,54 +69,54 @@
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)|MySQL|[Revising-Aggregations-The-Count-Function.sql](Aggregation/Revising-Aggregations-The-Count-Function.sql)|Basic|
-|2|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|MySQL|[Revising-Aggregations-The-Sum-Function.sql](Aggregation/Revising-Aggregations-The-Sum-Function.sql)|Basic|
-|3|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|MySQL|[Revising-Aggregations-Averages.sql](Aggregation/Revising-Aggregations-Averages.sql)|Basic|
-|4|[Average Population](https://www.hackerrank.com/challenges/average-population/problem)|MySQL|[Average-Population.sql](Aggregation/Average-Population.sql)|Basic|
-|5|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|MySQL|[Japan-Population.sql](Aggregation/Japan-Population.sql)|Basic|
-|6|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|MySQL|[Population-Density-Difference.sql](Aggregation/Population-Density-Difference.sql)|Basic|
-|7|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|MySQL|[The-Blunder.sql](Aggregation/The-Blunder.sql)|Basic|   
-|8|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)|MySQL|[Top-Earners.sql](Aggregation/Top-Earners.sql)|Basic|
-|9|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)|MySQL|[Weather-Observation-Station-2.sql](Aggregation/Weather-Observation-Station-2.sql)|Basic|
-|10|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13)|MySQL|[Weather-Observation-Station-13.sql](Aggregation/Weather-Observation-Station-13.sql)|Basic|
-|11|[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)|MySQL|[Weather-Observation-Station-14.sql](Aggregation/Weather-Observation-Station-14.sql)|Basic|
-|12|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)|MySQL|[Weather-Observation-Station-15.sql](Aggregation/Weather-Observation-Station-15.sql)|Basic|
-|13|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)|MySQL|[Weather-Observation-Station-16.sql](Aggregation/Weather-Observation-Station-16.sql)|Basic|
-|14|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)|MySQL|[Weather-Observation-Station-17.sql](Aggregation/Weather-Observation-Station-17.sql)|Basic|
-|15|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)|MySQL|[Weather-Observation-Station-18.sql](Aggregation/Weather-Observation-Station-18.sql)|Basic|
-|16|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)|MySQL|[Weather-Observation-Station-19.sql](Aggregation/Weather-Observation-Station-19.sql)|Basic|
-|17|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|MySQL|[Weather-Observation-Station-20.sql](Aggregation/Weather-Observation-Station-20.sql)|Intermediate|
+|1|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)|MySQL|[Revising-Aggregations-The-Count-Function](Aggregation/Revising-Aggregations-The-Count-Function.sql)|Basic|
+|2|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|MySQL|[Revising-Aggregations-The-Sum-Function](Aggregation/Revising-Aggregations-The-Sum-Function.sql)|Basic|
+|3|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|MySQL|[Revising-Aggregations-Averages](Aggregation/Revising-Aggregations-Averages.sql)|Basic|
+|4|[Average Population](https://www.hackerrank.com/challenges/average-population/problem)|MySQL|[Average-Population](Aggregation/Average-Population.sql)|Basic|
+|5|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|MySQL|[Japan-Population](Aggregation/Japan-Population.sql)|Basic|
+|6|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|MySQL|[Population-Density-Difference](Aggregation/Population-Density-Difference.sql)|Basic|
+|7|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|MySQL|[The-Blunder](Aggregation/The-Blunder.sql)|Basic|   
+|8|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)|MySQL|[Top-Earners](Aggregation/Top-Earners.sql)|Basic|
+|9|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)|MySQL|[Weather-Observation-Station-2](Aggregation/Weather-Observation-Station-2.sql)|Basic|
+|10|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13)|MySQL|[Weather-Observation-Station-13](Aggregation/Weather-Observation-Station-13.sql)|Basic|
+|11|[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)|MySQL|[Weather-Observation-Station-14](Aggregation/Weather-Observation-Station-14.sql)|Basic|
+|12|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)|MySQL|[Weather-Observation-Station-15](Aggregation/Weather-Observation-Station-15.sql)|Basic|
+|13|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)|MySQL|[Weather-Observation-Station-16](Aggregation/Weather-Observation-Station-16.sql)|Basic|
+|14|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)|MySQL|[Weather-Observation-Station-17](Aggregation/Weather-Observation-Station-17.sql)|Basic|
+|15|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)|MySQL|[Weather-Observation-Station-18](Aggregation/Weather-Observation-Station-18.sql)|Basic|
+|16|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)|MySQL|[Weather-Observation-Station-19](Aggregation/Weather-Observation-Station-19.sql)|Basic|
+|17|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|MySQL|[Weather-Observation-Station-20](Aggregation/Weather-Observation-Station-20.sql)|Intermediate|
 
 ### 4. Basic Join
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[Population Census](https://www.hackerrank.com/challenges/asian-population/problem)|MySQL|[Population-Census.sql](Basic%20Join/Population-Census.sql)|Basic|
-|2|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|MySQL|[African-Cities.sql](Basic%20Join/African-Cities.sql)|Basic|
-|3|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)|MySQL|[Average-Population-of-Each-Continent.sql](Basic%20Join/Average-Population-of-Each-Continent.sql)|Basic|
-|4|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|MySQL|[The-Report.sql](Basic%20Join/The-Report.sql)|Intermediate|
-|5|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|MySQL|[Top-Competitors.sql](Basic%20Join/Top-Competitors.sql)|Intermediate|
-|6|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)|MySQL|[Ollivander's-Inventory.sql](Basic%20Join/Ollivander's-Inventory.sql)|Intermediate|
-|7|[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|MySQL|[Challenges.sql](Basic%20Join/Challenges.sql)|Intermediate|
-|8|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)|MySQL|[Contest-Leaderboard.sql](Basic%20Join/Contest-Leaderboard.sql)|Intermediate|
+|1|[Population Census](https://www.hackerrank.com/challenges/asian-population/problem)|MySQL|[Population-Census](Basic%20Join/Population-Census.sql)|Basic|
+|2|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|MySQL|[African-Cities](Basic%20Join/African-Cities.sql)|Basic|
+|3|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)|MySQL|[Average-Population-of-Each-Continent](Basic%20Join/Average-Population-of-Each-Continent.sql)|Basic|
+|4|[The Report](https://www.hackerrank.com/challenges/the-report/problem)|MySQL|[The-Report](Basic%20Join/The-Report.sql)|Intermediate|
+|5|[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|MySQL|[Top-Competitors](Basic%20Join/Top-Competitors.sql)|Intermediate|
+|6|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)|MySQL|[Ollivander's-Inventory](Basic%20Join/Ollivander's-Inventory.sql)|Intermediate|
+|7|[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|MySQL|[Challenges](Basic%20Join/Challenges.sql)|Intermediate|
+|8|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)|MySQL|[Contest-Leaderboard](Basic%20Join/Contest-Leaderboard.sql)|Intermediate|
 
 ### 5. Advanced Join
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem)|MySQL|[SQL-Project-Planning.sql](Advanced%20Join/SQL-Project-Planning.sql)|Intermediate| 
-|2|[Placements](https://www.hackerrank.com/challenges/placements/problem)|MySQL|[Placements.sql](Advanced%20Join/Placements.sql)|Intermediate|
-|3|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem)|MySQL|[Symmetric-Pairs.sql](Advanced%20Join/Symmetric-Pairs.sql)|Intermediate|
-|4|[Interviews](https://www.hackerrank.com/challenges/interviews/problem)|MySQL|[Interviews.sql](Advanced%20Join/Interviews.sql)|Intermediate|
-|5|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem)|MySQL|[15-Days-of-Learning-SQL.sql](Advanced%20Join/15-Days-of-Learning-SQL.sql)|Advanced|
+|1|[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem)|MySQL|[SQL-Project-Planning](Advanced%20Join/SQL-Project-Planning.sql)|Intermediate| 
+|2|[Placements](https://www.hackerrank.com/challenges/placements/problem)|MySQL|[Placements](Advanced%20Join/Placements.sql)|Intermediate|
+|3|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem)|MySQL|[Symmetric-Pairs](Advanced%20Join/Symmetric-Pairs.sql)|Intermediate|
+|4|[Interviews](https://www.hackerrank.com/challenges/interviews/problem)|MySQL|[Interviews](Advanced%20Join/Interviews.sql)|Intermediate|
+|5|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem)|MySQL|[15-Days-of-Learning-SQL](Advanced%20Join/15-Days-of-Learning-SQL.sql)|Advanced|
     
 ### 6. Alternative Queries
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)|MySQL|[Draw-The-Triangle-1.sql](Alternative%20Queries/Draw-The-Triangle-1.sql)|Advanced| 
-|2|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|MySQL|[Draw-The-Triangle-2.sql](Alternative%20Queries/Draw-The-Triangle-2.sql)|Advanced| 
-|3|[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)|MySQL|[Print-Prime-Numbers.sql](Alternative%20Queries/Print-Prime-Numbers.sql)|Advanced| 
+|1|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)|MySQL|[Draw-The-Triangle-1](Alternative%20Queries/Draw-The-Triangle-1.sql)|Advanced| 
+|2|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|MySQL|[Draw-The-Triangle-2](Alternative%20Queries/Draw-The-Triangle-2.sql)|Advanced| 
+|3|[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)|MySQL|[Print-Prime-Numbers](Alternative%20Queries/Print-Prime-Numbers.sql)|Advanced| 
     
     
     
