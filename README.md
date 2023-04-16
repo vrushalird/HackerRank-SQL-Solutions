@@ -59,11 +59,11 @@
 
 |Sr No|Challenges|Language|Solution|Skills|
 |:-----:|------|:---------:|-----|:----:|
-|1|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|MySQL|[Type-of-Triangle.sql](Advanced%20Select/Type-of-Triangle.sql)|Basic|
-|2|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|MySQL|[The-PADS.sql](Advanced%20Select/The-PADS.sql)|Basic|
-|3|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|MySQL|[Occupations.sql](Advanced%20Select/Occupations.sql)|Intermediate|
-|4|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|MySQL|[Binary-Tree-Nodes.sql](Advanced%20Select/Binary-Tree-Nodes.sql)|Intermediate|
-|5|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|MySQL|[New-Companies.sql](Advanced%20Select/New-Companies.sql)|Intermediate|
+|1|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|MySQL|[Type-of-Triangle](Advanced%20Select/Type-of-Triangle.sql)|Basic|
+|2|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|MySQL|[The-PADS](Advanced%20Select/The-PADS.sql)|Basic|
+|3|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|MySQL|[Occupations](Advanced%20Select/Occupations.sql)|Intermediate|
+|4|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)|MySQL|[Binary-Tree-Nodes](Advanced%20Select/Binary-Tree-Nodes.sql)|Intermediate|
+|5|[New Companies](https://www.hackerrank.com/challenges/the-company/problem)|MySQL|[New-Companies](Advanced%20Select/New-Companies.sql)|Intermediate|
     
 ### 3. Aggregation
 
