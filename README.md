@@ -1,6 +1,17 @@
 # HackerRank SQL Solutions
 
-<img align="right" height="20" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.HackerRank-SQL-Solutions">
+<p align="right">
+    <a href="https://visitor-badge.deta.dev/badge?page_id=vrushalird.HackerRank-SQL-Solutions">
+    <img src="https://visitor-badge.deta.dev/badge?page_id=vrushalird.HackerRank-SQL-Solutions">
+</p>
+
+
+<!---<img align="right" height="20" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.HackerRank-SQL-Solutions">
+![GitHub stars](https://img.shields.io/github/stars/vrushalird/HackerRank-SQL-Solutions?style=social)
+![GitHub forks](https://img.shields.io/github/forks/vrushalird/HackerRank-SQL-Solutions?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/vrushalird/HackerRank-SQL-Solutions?style=social)
+![GitHub followers](https://img.shields.io/github/followers/vrushalird?style=social)
+--->
 
 <p>
     <a href="https://www.hackerrank.com/Vrushali__D">
@@ -119,7 +130,17 @@
 |3|[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)|MySQL|[Print-Prime-Numbers](Alternative%20Queries/Print-Prime-Numbers.sql)|Advanced| 
     
     
-    
-    
+<br><br>
+---
+<p align="center">
+    <a href="https://img.shields.io/github/stars/vrushalird/HackerRank-SQL-Solutions?style=social">
+    <img src="https://img.shields.io/github/stars/vrushalird/HackerRank-SQL-Solutions?style=social" alt="GitHub stars">
+    <a href="https://img.shields.io/github/forks/vrushalird/HackerRank-SQL-Solutions?style=social">
+    <img src="https://img.shields.io/github/forks/vrushalird/HackerRank-SQL-Solutions?style=social" alt="GitHub forks">
+    <a href="https://img.shields.io/github/watchers/vrushalird/HackerRank-SQL-Solutions?style=social">
+    <img src="https://img.shields.io/github/watchers/vrushalird/HackerRank-SQL-Solutions?style=social" alt="GitHub watchers">
+    <a href="https://img.shields.io/github/followers/vrushalird?style=social">
+    <img src="https://img.shields.io/github/followers/vrushalird?style=social" alt="GitHub followers">
+</p>   
     
     
