@@ -1,8 +1,8 @@
 # HackerRank SQL Solutions
 
-<p align="right">
+<p>
     <a href="https://visitor-badge.deta.dev/badge?page_id=vrushalird.HackerRank-SQL-Solutions">
-    <img src="https://visitor-badge.deta.dev/badge?page_id=vrushalird.HackerRank-SQL-Solutions">
+    <img src="https://visitor-badge.deta.dev/badge?page_id=vrushalird.HackerRank-SQL-Solutions" align="right">
 </p>
 
 
